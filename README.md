@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @batprats
+- 👋 Hi, I’m @batprats sharma
 - 👀 I’m interested in DevOps & Data Science.
 - - 🌱 I’m currently learning DevOps & Data Science.
 - 💞️ I’m looking to collaborate on GitLab.
